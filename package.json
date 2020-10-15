@@ -1,0 +1,15 @@
+{
+  "name": "lerna-storybook-composition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start-storybook -p 6005"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/react": "^6.0.26",
+    "lerna": "^3.22.1"
+  }
+}
